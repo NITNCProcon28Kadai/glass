@@ -1,0 +1,7 @@
+#Mon Sep 25 14:17:26 JST 2017
+base.0=/Users/jo-ken/Library/Android/sdk/add-ons/addon-sony_smarteyeglass_sdk-sony-19/samples/SampleARAnimationExtension/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d257ee9c1e0895a6461b61e722426acf6ade3c95
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/jo-ken/Library/Android/sdk/add-ons/addon-sony_smarteyeglass_sdk-sony-19/samples/SampleARAnimationExtension/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ceb56c0231fd58b72f0630d03a9b2661bcdb41e6/classes.dex
+base.1=/Users/jo-ken/Library/Android/sdk/add-ons/addon-sony_smarteyeglass_sdk-sony-19/samples/SampleARAnimationExtension/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ceb56c0231fd58b72f0630d03a9b2661bcdb41e6
+file.0=/Users/jo-ken/Library/Android/sdk/add-ons/addon-sony_smarteyeglass_sdk-sony-19/samples/SampleARAnimationExtension/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d257ee9c1e0895a6461b61e722426acf6ade3c95/classes.dex

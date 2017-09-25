@@ -1,0 +1,4 @@
+#Mon Sep 25 13:27:07 JST 2017
+base.0=/Users/jo-ken/Library/Android/sdk/add-ons/addon-sony_smarteyeglass_sdk-sony-19/samples/SampleARAnimationExtension/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1
+renamed.0=classes.dex
+file.0=/Users/jo-ken/Library/Android/sdk/add-ons/addon-sony_smarteyeglass_sdk-sony-19/samples/SampleARAnimationExtension/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex

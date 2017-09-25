@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/jo-ken/Library/Android/sdk/add-ons/addon-sony_smarteyeglass_sdk-sony-19/samples/SampleARAnimationExtension/app/build/intermediates/res/merged/debug/layout/smart_watch_notification_widget.xml",
+        "source": "/Users/jo-ken/Library/Android/sdk/add-ons/addon-sony_smarteyeglass_sdk-sony-19/samples/SmartExtensionUtils/build/intermediates/bundles/default/res/layout/smart_watch_notification_widget.xml"
+    },
+    {
+        "merged": "/Users/jo-ken/Library/Android/sdk/add-ons/addon-sony_smarteyeglass_sdk-sony-19/samples/SampleARAnimationExtension/app/build/intermediates/res/merged/debug/layout/smart_watch_widget.xml",
+        "source": "/Users/jo-ken/Library/Android/sdk/add-ons/addon-sony_smarteyeglass_sdk-sony-19/samples/SmartExtensionUtils/build/intermediates/bundles/default/res/layout/smart_watch_widget.xml"
+    },
+    {
+        "merged": "/Users/jo-ken/Library/Android/sdk/add-ons/addon-sony_smarteyeglass_sdk-sony-19/samples/SampleARAnimationExtension/app/build/intermediates/res/merged/debug/layout/smarteyeglass_widgetcard.xml",
+        "source": "/Users/jo-ken/Library/Android/sdk/add-ons/addon-sony_smarteyeglass_sdk-sony-19/samples/SmartEyeglassAPI/build/intermediates/bundles/default/res/layout/smarteyeglass_widgetcard.xml"
+    }
+]
